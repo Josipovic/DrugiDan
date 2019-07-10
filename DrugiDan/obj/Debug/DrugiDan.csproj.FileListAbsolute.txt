@@ -1,0 +1,7 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\bin\Debug\DrugiDan.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\bin\Debug\DrugiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\bin\Debug\DrugiDan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\obj\Debug\DrugiDan.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\obj\Debug\DrugiDan.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\obj\Debug\DrugiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\DrugiDan2\DrugiDan\obj\Debug\DrugiDan.pdb
